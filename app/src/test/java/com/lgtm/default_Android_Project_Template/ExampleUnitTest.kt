@@ -1,4 +1,4 @@
-package com.lgtm.default_android_project_template
+package com.lgtm.default_Android_Project_Template
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.lgtm.default_android_project_template
+package com.lgtm.default_Android_Project_Template
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
